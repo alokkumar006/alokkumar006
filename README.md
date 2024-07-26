@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [alokkumar.site]
+- 👨‍💻 All of my projects are available at [alokkumar.site](http://alokkumar.site/)
 
 - 📫 How to reach me **alokbodmas2018@gmail.com**
 
